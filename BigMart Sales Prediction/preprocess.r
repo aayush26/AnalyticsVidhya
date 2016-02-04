@@ -1,0 +1,16 @@
+train <- read.csv("Train.csv")
+levels(train$Item_Fat_Content)<-c(1:5)
+levels(train$Item_Type)<-c(1:16)
+levels(train$Outlet_Size)<-c(1:4)
+levels(train$Outlet_Location_Type)<-c(1:3)
+levels(train$Outlet_Type)<-c(1:4)
+
+test <- read.csv("Test.csv")
+levels(test$Item_Fat_Content)<-c(1:5)
+levels(test$Item_Type)<-c(1:16)
+levels(test$Outlet_Size)<-c(1:4)
+levels(test$Outlet_Location_Type)<-c(1:3)
+levels(test$Outlet_Type)<-c(1:4)
+
+write.csv(train, file="train1.csv", row.names=FALSE)
+write.csv(test, file="test1.csv", row.names=FALSE)
