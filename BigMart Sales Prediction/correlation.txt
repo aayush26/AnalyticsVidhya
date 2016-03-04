@@ -1,0 +1,29 @@
+Birth Place Recode	-0.0837114032292	3.18638008181e-142	BRP
+Mother's Single Year of Age	-0.0245873740545	8.80564426901e-14	MSYA
+Month Prenatal Care Began Recode	-0.0743440221952	1.35655700538e-112	MPCB
+Number of Prenatal Visits Recode	0.0394046750383	6.34022436601e-33	NPV
+Cigarettes Before Pregnancy 	-0.163340455774	0.0	CBP
+Cigarettes 1st trimester	-0.166883583753	0.0	C1T
+Cigarettes 2nd trimester	-0.166372592911	0.0	C2T
+Cigarettes 3rd trimester	-0.169271626434	0.0	C3T
+Prepregnancy Diabetes	-0.134474796878	0.0	PD
+Gestational Diabetes	-0.107360377175	1.33288731885e-232	GD
+Prepregnancy Hypertension	-0.104692620364	2.73531052227e-221	PH
+Gestational Hypertension	-0.0750101499289	1.38373462751e-114	GH
+Eclampsia	-0.170377195975	0.0	E
+Previous Preterm Birth	-0.111797023641	4.81702455824e-252	PPB
+Infertility Treatment 	-0.158302145164	0.0	IT
+Fertility Enhancing Drug	0.159057505737	0.0	FED
+Number of previous Cesarean Deliveries	-0.0210678195958	1.65717111098e-10	NPCD
+Chronic Hypertension	-0.113988399127	6.16529928117e-262	CH
+Pregnancy Associated Hypertension	-0.0811611625715	8.25019772695e-134	PAH
+Gonorrhea	-0.174430073861	0.0	G
+Syphillis	-0.173591102769	0.0	S
+Hepatitis B 	-0.173787405349	0.0	HB
+Hepatitis C 	-0.171334680105	0.0	HC
+Induction of Labor	-0.0856955526441	6.00056075489e-149	IL
+Sex of Infant 	0.0008467716047	0.797304361478	SI
+BMI	-0.0371918339122	1.63277099043e-29	BMI
+Interval Since Last Live Birth Recode 11	-0.00600249125022	0.0686620487189	ISLLB
+Interval Since Last Pregnancy Recode 11	-0.0173646898507	1.38711959103e-07	ISLP
+Mother's Height in Inches	0.00340267235528	0.302036191227	MH
